@@ -4,7 +4,7 @@
 
 #### 그림판 코드
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/cb74af86-a3d2-4d92-ad13-90750d9e0d45)
-##### 위의 코드는 마우스를 누를때 마다 그림을 그릴수 있도록 하였고 opnt=point;는 마우스 위치를 초기화하여 잔상이 남지 않게 해줍니다. COLOR버튼을 누르게되면 색깔 변경을 할 수 있습니다. 
+##### 위의 코드는 마우스를 누를때 마다 그림을 그릴수 있도록 하였습니다. 먼저 속성에서 MOUSEmove를 설정해줍니다. opnt=point;는 마우스 위치를 초기화하여 잔상이 남지 않게 해줍니다. COLOR버튼을 누르게되면 색깔 변경을 할 수 있습니다. 
 
 ##### 슬라이더 코드 
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/37ea8b25-a775-446a-a8ec-fbc50eb19832)
