@@ -4,5 +4,6 @@
 
 ##### 2. 펜의 색상을 변경할 수 있도록 하시오.
 
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/6346e234-17e5-40aa-b25a-62ea2edc376d)
+![image](https://github.com/qkrgudals1030/CPen/assets/50895124/f8bbe77b-a173-42a2-9078-a9d4dd784bc9)
+
 
