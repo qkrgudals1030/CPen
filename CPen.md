@@ -4,7 +4,10 @@
 
 #### 그림판 코드
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/cb74af86-a3d2-4d92-ad13-90750d9e0d45)
+##### opnt=point;는 마우스 위치를 초기화하여 잔상이 남지 않게 해줍니다. 
+
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/37ea8b25-a775-446a-a8ec-fbc50eb19832)
+##### 슬라이더 코드
 
 #### 그림판 인터페이스
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/8f3c2587-b711-40e5-9d93-5b7ba89af33a)
