@@ -9,6 +9,10 @@
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/19ad3ff9-8b03-4a8e-87ea-7209242d88d5)
 
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/1d561ab2-a0dc-43fd-a6f0-bd8f28c0caee)
+![image](https://github.com/qkrgudals1030/CPen/assets/50895124/f7f4b935-186d-4e08-82e7-8e15c4949b30)
+![image](https://github.com/qkrgudals1030/CPen/assets/50895124/db41b342-803e-48f8-8095-70d9baef4d1c)
+
+
 
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/8f3c2587-b711-40e5-9d93-5b7ba89af33a)
 
