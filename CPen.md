@@ -3,3 +3,6 @@
 ##### 1. 펜의 굵기를 조절 할 수 있도록 하시오.
 
 ##### 2. 펜의 색상을 변경할 수 있도록 하시오.
+
+![image](https://github.com/qkrgudals1030/CPen/assets/50895124/6346e234-17e5-40aa-b25a-62ea2edc376d)
+
