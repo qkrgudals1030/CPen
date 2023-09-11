@@ -4,10 +4,11 @@
 
 #### 그림판 코드
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/cb74af86-a3d2-4d92-ad13-90750d9e0d45)
-##### opnt=point;는 마우스 위치를 초기화하여 잔상이 남지 않게 해줍니다. 
+##### 위의 코드는 마우스를 누를때 마다 그림을 그릴수 있도록 하였고 opnt=point;는 마우스 위치를 초기화하여 잔상이 남지 않게 해줍니다. COLOR버튼을 누르게되면 색깔 변경을 할 수 있습니다. 
 
+##### 슬라이더 코드 
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/37ea8b25-a775-446a-a8ec-fbc50eb19832)
-##### 슬라이더 코드
+##### 슬라이더 조작을 통해 펜의 굵기를 조정할 수 있습니다.
 
 #### 그림판 인터페이스
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/8f3c2587-b711-40e5-9d93-5b7ba89af33a)
@@ -24,6 +25,8 @@
 
 #### 그림판 결과
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/f8bbe77b-a173-42a2-9078-a9d4dd784bc9)
+
+##### 안동대 글자를 각자 다른 색상 굵기로 하여 작성해 보았습니다.
 
 
 
