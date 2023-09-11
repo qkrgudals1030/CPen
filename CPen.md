@@ -14,7 +14,7 @@
 #### 슬라이더조작 
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/1d561ab2-a0dc-43fd-a6f0-bd8f28c0caee)
 
-#### 슬라이더에 따른 펜 굵기 차이
+#### 슬라이더에 조작에 따른 펜 굵기 차이
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/f7f4b935-186d-4e08-82e7-8e15c4949b30)
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/db41b342-803e-48f8-8095-70d9baef4d1c)
 
@@ -22,23 +22,6 @@
 #### 그림판 결과
 ![image](https://github.com/qkrgudals1030/CPen/assets/50895124/f8bbe77b-a173-42a2-9078-a9d4dd784bc9)
 
-#### 색상 선택
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/19ad3ff9-8b03-4a8e-87ea-7209242d88d5)
-
-#### 슬라이더조작 
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/1d561ab2-a0dc-43fd-a6f0-bd8f28c0caee)
-
-#### 슬라이더에 따른 펜 굵기 차이
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/f7f4b935-186d-4e08-82e7-8e15c4949b30)
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/db41b342-803e-48f8-8095-70d9baef4d1c)
-
-
-#### 그림판 인터페이스
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/8f3c2587-b711-40e5-9d93-5b7ba89af33a)
-
-#### 그림판 코드
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/cb74af86-a3d2-4d92-ad13-90750d9e0d45)
-![image](https://github.com/qkrgudals1030/CPen/assets/50895124/37ea8b25-a775-446a-a8ec-fbc50eb19832)
 
 
 
